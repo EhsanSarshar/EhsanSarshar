@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ehsan Sarshar
 😱   I have 8 years programming background
 
-🎉   2 years experience as fullstack developer and 1 year experience as front-end lead developer
+🎉   2 years experience as a fullstack developer and 1 year experience as a front-end lead developer
 
 😎   I am specialist in React Native and Graphql API 
 
