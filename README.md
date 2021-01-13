@@ -7,7 +7,7 @@
 
 🤔   Vim.
 
-🌟   I have developed [Anarstore](https://anarstore.af/app/) the first platform in Afghanistan
+🌟   I have developed [Anarstore](https://anarstore.af/app/) the first online store platform in Afghanistan
 
 💆‍  mentored alot of developers to be better developers
 
