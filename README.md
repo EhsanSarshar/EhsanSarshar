@@ -5,6 +5,8 @@
 
 😎   I am specialist in React Native and Graphql API 
 
+🤔   Vim.
+
 🌟   I have developed the first [online store](https://anarstore.af/app/) platform in Afghanistan
 
 💆‍  mentored alot of developers to be better developers
