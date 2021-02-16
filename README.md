@@ -19,4 +19,6 @@
 - phoneNumber: +93728775014
 - emailAddress: ehsan.herai@gmail.com
 
-### Plan to learn: Tensorflow.js, Reasonml (ReScript), Rust
+### currently learning Machine learning with Javascript 
+
+## Plan to learn: Reasonml (ReScript), Rust
