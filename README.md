@@ -16,8 +16,9 @@
 😲   React, React native, Node.js, SCSS, Typescript, Graphql, Mongodb, Elasticsearch are my swiff knife
 
 - 📫 How to reach me: ...
-- phoneNumber: +93728775014
-- emailAddress: ehsan.herai@gmail.com
+- PhoneNumber: +93728775014
+- EmailAddress: ehsan.herai@gmail.com
+- Twitter: ehsan_sarshar_
 
 ### currently learning Machine learning with Javascript 
 
