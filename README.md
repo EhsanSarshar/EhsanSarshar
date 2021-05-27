@@ -18,8 +18,8 @@
 - 📫 How to reach me: ...
 - PhoneNumber: +93728775014
 - EmailAddress: ehsan.herai@gmail.com
-- Twitter: ehsan_sarshar_
+- Twitter: TheEhsanSarshar
 
-### currently learning Machine learning with Javascript 
+### currently doing learning Machine learning stuff with Javascript 
 
 ## Plan to learn: Reasonml (ReScript), Rust
