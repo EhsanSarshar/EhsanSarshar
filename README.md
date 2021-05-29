@@ -9,7 +9,7 @@
 
 🌟   I have developed [Anarstore](https://anarstore.af/app/) the first online store platform in Afghanistan
 
-💆‍   mentored alot of developers to be better developers
+💆‍   mentored a lot of developers to become better developers
 
 😎   I know how to React and How to Node.js perfectly
 
