@@ -27,3 +27,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheEhsanSarshar&show_icons=true&theme=gotham" alt="TheEhsanSarshar" />
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TheEhsanSarshar)](https://github.com/TheEhsanSarshar/github-readme-twitter)
