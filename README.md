@@ -22,7 +22,7 @@
 - EmailAddress: ehsan.herai@gmail.com
 - Twitter: TheEhsanSarshar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=600&height=100&lines=Everything+that+can+be+written+in+Javascript.;Will+eventually+be+written+in+Javascript.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF006D&size=25&multiline=true&width=700&height=100&lines=Everything+that+can+be+written+in+Javascript.;Will+eventually+be+written+in+Javascript.)](https://git.io/typing-svg)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheEhsanSarshar&show_icons=true&theme=gotham" alt="TheEhsanSarshar" />
