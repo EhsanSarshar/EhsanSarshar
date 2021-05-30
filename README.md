@@ -22,11 +22,8 @@
 - EmailAddress: ehsan.herai@gmail.com
 - Twitter: TheEhsanSarshar
 
-### Recently doing learning Machine learning stuff with Javascript 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=600&height=100&lines=Everything+that+can+be+written+in+Javascript.;Will+eventually+be+written+in+Javascript.)](https://git.io/typing-svg)
 
-### Plan to learn: Reasonml (ReScript), Rust
-
-📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheEhsanSarshar&show_icons=true&theme=gotham" alt="TheEhsanSarshar" />
 
