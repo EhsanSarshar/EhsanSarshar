@@ -22,8 +22,6 @@
 - EmailAddress: ehsan.herai@gmail.com
 - Twitter: TheEhsanSarshar
 
-**Databases**
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF006D&size=25&multiline=true&width=700&height=100&lines=Everything+that+can+be+written+in+Javascript.;Will+eventually+be+written+in+Javascript.)](https://git.io/typing-svg)
 
